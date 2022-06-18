@@ -20,7 +20,7 @@
 1. 모델 학습
     * Human Pose Classification
     * Human Pose Estimation
-1. 모델 평가
+1. 모델 평가 및 
 
 &nbsp;
 
