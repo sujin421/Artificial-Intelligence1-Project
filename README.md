@@ -35,7 +35,8 @@
 ## 🎈 __2단계: 데이터 전처리__
 ### __객체 검출__
 * HOG 기반 SVM 분류기를 이용하여 Human Detection
-<img src="./dataset_cropped(1).png" height="300"> | <img src="./dataset_cropped(2).png" height="300">
+
+<img src="./dataset_cropped(1).png" height="300"> <img src="./dataset_cropped(2).png" height="300">
 
 &nbsp;
 
@@ -58,8 +59,8 @@
 &nbsp;
 
 ## __🎈 DEMO__
-<img width="80%" src="https://user-images.githubusercontent.com/64648177/174414704-7b6e107d-1282-473d-b8f1-558deba7815e.gif
-"/>
+![running_video](https://user-images.githubusercontent.com/64648177/174414704-7b6e107d-1282-473d-b8f1-558deba7815e.gif
+)
 
 &nbsp;
 
