@@ -59,7 +59,7 @@
 &nbsp;
 
 ## __🎈 DEMO__
-![running_video_AdobeExpress]<img src="https://user-images.githubusercontent.com/64648177/174469329-ed349964-448e-4bf7-bf3e-6250b769d457.gif" width="600" height="400">
+<img src="https://user-images.githubusercontent.com/64648177/174469702-21f55cdc-c49c-43a0-ba67-3af760b017a5.gif" width="600">
 
 &nbsp;
 
