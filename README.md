@@ -59,8 +59,7 @@
 &nbsp;
 
 ## __🎈 DEMO__
-![running_video](https://user-images.githubusercontent.com/64648177/174414704-7b6e107d-1282-473d-b8f1-558deba7815e.gif
-)
+![running_video_AdobeExpress](https://user-images.githubusercontent.com/64648177/174469329-ed349964-448e-4bf7-bf3e-6250b769d457.gif)
 
 &nbsp;
 
